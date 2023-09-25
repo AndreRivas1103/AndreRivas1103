@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+    <img src="https://media.giphy.com/media/kda3fxgeD0fZ0OjOYW/giphy.gif" width="400"/>
+    <br>
+    <h1>Hi 👌</h1>
+    <h1>I'm Andrer</h1>
+</div>
 
-<!--
-**AndreRivas1103/AndreRivas1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 My stats: ###
+![AndreRivas1103's Stats](https://github-readme-stats.vercel.app/api?username=AndreRivas1103&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-Here are some ideas to get you started:
+![AndreRivas1103's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRivas1103&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![AndreRivas1103's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndreRivas1103&theme=vue-dark&hide_border=true)
