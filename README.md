@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/kda3fxgeD0fZ0OjOYW/giphy.gif" width="400"/>
     <br>
     <h1>Hi 👌</h1>
-    <h1><p>I'm Andrer</p></h1>
+    <p>I'm Andrer</p>
 </div>
 
 ### 🌐 My stats: ###
